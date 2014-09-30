@@ -1,6 +1,6 @@
 var RcLoader = require('rcloader');
 var jshint =  require('jsxhint/jsxhint');
-var jshintcli = require('jsxhint/cli');
+var jshintcli = require('jshint/src/cli');
 var minimatch = require("minimatch");
 var _ = require("lodash");
 
