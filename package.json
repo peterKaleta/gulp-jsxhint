@@ -22,7 +22,9 @@
   },
   "devDependencies": {
     "gulp": "^3.6.2",
+    "jsxhint": "^0.4.14",
     "mocha": "^1.18.2",
+    "rcloader": "^0.1.2",
     "should": "^4.0.4"
   },
   "scripts": {
